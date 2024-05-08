@@ -1,12 +1,11 @@
 import React from 'react'
 
-
-const page = () => {
+const Button = () => {
   return (
     <div>
-      hiiii
+      
     </div>
   )
 }
 
-export default page
+export default Button
